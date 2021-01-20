@@ -45,6 +45,7 @@ h1 {
 }
 
 .smallbox p{
+  padding: 3px;
   clear:right;
   margin: 10px;
 }
